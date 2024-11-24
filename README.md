@@ -58,4 +58,8 @@ Add the following secrets in your GitHub repository:
 * DOCKER_PASSWORD: Your Docker Hub password or access token.
 
 ### DockerHub Container Image
-<img src="./dockerhub.png" alt="show name" style="width:600px;">
+Visit [DockerHub Container Image](https://hub.docker.com/r/bellatang/mini12/tags)  
+<img src="./dockerhub.png" alt="show name" style="width:600px;">   
+
+To pull the image directly, use: `docker pull bellatang/mini12`   
+<img src="./pull.png" alt="show name" style="width:600px;">   
